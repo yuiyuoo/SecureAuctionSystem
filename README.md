@@ -57,3 +57,4 @@ npm run dev
 - This implementation uses a small prime (7) for educational purposes
 - In a production system, use a larger prime for better security
 - The system assumes honest-but-curious servers that follow the protocol# SecureAuctionSystem
+# SecureAuctionSystem
