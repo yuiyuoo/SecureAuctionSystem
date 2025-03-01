@@ -1,6 +1,8 @@
 # Secure Auction System
 
 A privacy-preserving auction system using secret sharing techniques to determine the highest bid and winner without revealing individual bids.
+This web app is hosted <a href="https://secureauctionsystem.netlify.app/">here</a>!
+
 
 ## Overview
 
